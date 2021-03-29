@@ -1,0 +1,11 @@
+body {background-color: burlywood}
+h1 {color: white}
+h2 {color: red}
+p {color: brown;
+    font-family: serif; 
+    font-size: 110%}
+
+table, th, td {border: 2px solid black;
+}
+th, td { font-size: 125%
+}
